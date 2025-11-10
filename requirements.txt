@@ -3,3 +3,4 @@ requests
 pandas
 fpdf
 urllib3
+python-dotenv
